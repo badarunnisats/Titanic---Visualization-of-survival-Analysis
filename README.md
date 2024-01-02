@@ -2,6 +2,8 @@
 
 This is a repository for Titanic dataset analysis with machine learning  and  Power BI dashboard and other related files to provide comprehensive understanding of the dataset. And also visualize the survival analysis
 
+ ![Screenshot 2024-01-02 144153](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/9f98ffca-6abf-43a8-8d14-45eb992e564d)
+
 # Introduction  
 
 The main objective of the analysis is to predict the survival status of passengers on board the Titanic using various features, including age, gender, ticket class, and other variables. The dataset includes information on 1309 passengers, which is a subset of the total 2,224 passengers and crew members who were on board the Titanic. The problem statement of the dataset is important because it provides insight into the factors that influenced passenger survival rates during the Titanic disaster.
@@ -15,6 +17,7 @@ The main objective of the analysis is to predict the survival status of passenge
 The Titanic dataset is a well-known dataset that contains information on 1309 passengers who were aboard the Titanic during its ill-fated maiden voyage. The dataset is widely used in the data science community as a benchmark dataset for classification modeling and predictive analysis.This dataset for this study was obtained from Kaagle and can be downloaded from https://www.kaggle.com/c/titanic/data
 
 # Dashboard
+
 
 ![Screenshot 2023-12-31 191622](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/9e177a29-8ab1-4fcc-8118-4323e70e06bf)
 ![Screenshot 2023-12-31 191512](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/a145d3a6-96ca-4ae3-be6f-203faf6ba3fb)
