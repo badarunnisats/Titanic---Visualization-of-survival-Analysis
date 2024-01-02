@@ -2,7 +2,7 @@
 
 This is a repository for Titanic dataset analysis with machine learning  and  Power BI dashboard and other related files to provide comprehensive understanding of the dataset. And also visualize the survival analysis
 
- ![Screenshot 2024-01-02 144153](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/9f98ffca-6abf-43a8-8d14-45eb992e564d)
+![Titanic cruise ship sail in sea iceberg in night scene illustration in cartoon vector](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/8032aa76-9fc9-4f82-9932-a63e0b845951)
 
 # Introduction  
 
