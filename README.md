@@ -16,7 +16,9 @@ The Titanic dataset is a well-known dataset that contains information on 1309 pa
 
 # Dashboard
 
-
+![Screenshot 2023-12-31 191622](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/9e177a29-8ab1-4fcc-8118-4323e70e06bf)
+![Screenshot 2023-12-31 191512](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/a145d3a6-96ca-4ae3-be6f-203faf6ba3fb)
+![Screenshot 2023-12-31 191539](https://github.com/badarunnisats/Titanic---Visualization-of-survival-Analysis/assets/109198401/774a14a8-18f9-470f-a673-e0614dcd49d1)
 
 # Conclusion
 
